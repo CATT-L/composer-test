@@ -3,16 +3,14 @@
     "description": "测试",
     "type": "library",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "CATT-L",
-            "email": "github@catt-l.com"
-        }
-    ],
+    "authors": [{
+        "name": "CATT-L",
+        "email": "github@catt-l.com"
+    }],
     "require": {},
-	"autoload": {
-		"psr-4": {
-			"CATT\\": "src/"
-		}
-	}
+    "autoload": {
+        "psr-4": {
+            "CATT\\": "src/"
+        }
+    }
 }
