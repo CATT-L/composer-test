@@ -9,7 +9,7 @@
             "email": "github@catt-l.com"
         }
     ],
-    "require": {}
+    "require": {},
 	"autoload": {
 		"psr-4": {
 			"CATT\\": "src/"
